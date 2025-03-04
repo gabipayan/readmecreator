@@ -48,7 +48,7 @@ ${data.description}
 ## Installation
 \`\`\`bash
 ${data.installation}
-\`\`\`
+\`\`\` 
 ## Usage
 ${data.usage}
 ## Credits

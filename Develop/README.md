@@ -1,6 +1,6 @@
-# gigig
+# readmecreator
 ## Description
-fffiii
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
 ## Table of Contents
 - [Description](#description)
@@ -12,13 +12,13 @@ fffiii
 
 ## Installation
 ```bash
-fidsf
-```
+npm i
+``` 
 ## Usage
-sfsd
+Provide instructions and examples for use. Include screenshots as needed.
 ## Credits
-sfsd
+no
 ## License
-GNU GPLv3
+Apache 2.0
 ## Questions
-If you have any questions, please contact me at giii. You can also find me on Github as gab.
+If you have any questions, please contact me at gapayan26@gmail.com. You can also find me on Github as gabipayan.
