@@ -4,7 +4,7 @@ import fs from "fs";
 import generateMarkdown from "./utils/generateMarkdown.js";
 import colors from "colors";
 
-// TODO: Create an array of questions for user input
+// TODO: Create an array of questions for user input    
 const questions = [
     {
         message: "What is your Github username?",
